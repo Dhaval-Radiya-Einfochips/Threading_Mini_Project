@@ -3,18 +3,18 @@
 Directory Structure :
 
 .
-├── CMakeLists.txt
-├── main.cpp	
-├── README.md
-└── worker_thread.h
+ CMakeLists.txt
+ main.cpp	
+ README.md
+ worker_thread.h
 
 Steps to build the project :
 
-# mkdir build
-# cd build
-# cmake ..
-# make
+mkdir build
+cd build
+cmake ..
+make
 
 To run the application :
-# ./Threading
+./Threading
 
