@@ -1,20 +1,36 @@
 # Threading_Mini_Project
 
-Directory Structure :
+## Directory Structure :
 
-.
- CMakeLists.txt
- main.cpp	
- README.md
- worker_thread.h
+```
++-- CMakeLists.txt
++-- inc
+|    +-- primary_thread.h
+|    +-- worker_thread.h
++-- README.md
++-- src
+|    +-- main.cpp
+|    +-- primary_thread.cpp
+|    +-- worker_thread.cpp
+```
 
-Steps to build the project :
+## Steps to build the project :
 
-mkdir build
-cd build
-cmake ..
-make
+```
+* mkdir build
+* cd build
+* cmake ..
+* make
+```
 
-To run the application :
-./Threading
+## To run the application :
 
+```
+* ./Threading_Exmaple
+```
+
+## To run UnitTest application :
+
+```
+* ./UnitTest_Exmaple
+```
