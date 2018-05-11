@@ -12,6 +12,7 @@
 |    +-- main.cpp
 |    +-- primary_thread.cpp
 |    +-- worker_thread.cpp
+|    +-- UnitTest.cpp
 ```
 
 ## Steps to build the project :
