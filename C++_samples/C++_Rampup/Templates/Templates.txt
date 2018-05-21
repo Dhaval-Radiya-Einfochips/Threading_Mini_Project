@@ -1,0 +1,4 @@
+Types of Templates : 
+
+- Functional Templates
+- Class Templates
